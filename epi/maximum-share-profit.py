@@ -38,6 +38,8 @@ def find_max_profit(openPrices):
     
     return (maxProfit)
 
+# TESTS
+
 # Should return 3
 print(find_max_profit([1, 2, 3, 4]))
 
